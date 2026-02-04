@@ -1,0 +1,1940 @@
+{
+  "resorts": [
+    {
+      "id": "saas-fee",
+      "name": "Saas-Fee / Saas-Almagell",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.1097,
+        "longitude": 7.9283
+      },
+      "elevation_base": 1800,
+      "elevation_top": 3600,
+      "access": {
+        "nearest_station": "Visp",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.saas-fee.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Saas-Fee",
+      "skiable_terrain_km": 100
+    },
+    {
+      "id": "anzere",
+      "name": "Anzère",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2960,
+        "longitude": 7.3980
+      },
+      "elevation_base": 1516,
+      "elevation_top": 2420,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.anzere.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Anzere",
+      "skiable_terrain_km": 58
+    },
+    {
+      "id": "blatten-belalp",
+      "name": "Blatten-Belalp",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3667,
+        "longitude": 7.9833
+      },
+      "elevation_base": 1322,
+      "elevation_top": 3112,
+      "access": {
+        "nearest_station": "Brig",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.belalp.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Belalp",
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "eischoll",
+      "name": "Eischoll",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2983,
+        "longitude": 7.7833
+      },
+      "elevation_base": 1230,
+      "elevation_top": 2300,
+      "access": {
+        "nearest_station": "Raron",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.eischoll.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    },
+    {
+      "id": "grimentz-zinal",
+      "name": "Grimentz-Zinal",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.1833,
+        "longitude": 7.5667
+      },
+      "elevation_base": 1570,
+      "elevation_top": 2900,
+      "access": {
+        "nearest_station": "Sierre",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.valdanniviers.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Grimentz",
+      "skiable_terrain_km": 115
+    },
+    {
+      "id": "gspon",
+      "name": "Gspon",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2333,
+        "longitude": 7.9000
+      },
+      "elevation_base": 1893,
+      "elevation_top": 2450,
+      "access": {
+        "nearest_station": "Stalden",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.gspon.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "jeizinen",
+      "name": "Jeizinen",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3167,
+        "longitude": 7.7167
+      },
+      "elevation_base": 1500,
+      "elevation_top": 2200,
+      "access": {
+        "nearest_station": "Gampel-Steg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.jeizinen.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 5
+    },
+    {
+      "id": "lauchernalp",
+      "name": "Lauchernalp",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4167,
+        "longitude": 7.7667
+      },
+      "elevation_base": 1403,
+      "elevation_top": 3091,
+      "access": {
+        "nearest_station": "Goppenstein",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.loetschental.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Lauchernalp",
+      "skiable_terrain_km": 55
+    },
+    {
+      "id": "leukerbad",
+      "name": "Leukerbad",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3833,
+        "longitude": 7.6333
+      },
+      "elevation_base": 1411,
+      "elevation_top": 2700,
+      "access": {
+        "nearest_station": "Leuk",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.leukerbad.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Leukerbad",
+      "skiable_terrain_km": 60
+    },
+    {
+      "id": "les-marecottes",
+      "name": "Les Marécottes",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.1000,
+        "longitude": 7.0167
+      },
+      "elevation_base": 1100,
+      "elevation_top": 2200,
+      "access": {
+        "nearest_station": "Les Marécottes",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.lesmarecottes.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 25
+    },
+    {
+      "id": "mayens-de-conthey",
+      "name": "Mayens de Conthey",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2333,
+        "longitude": 7.3333
+      },
+      "elevation_base": 1600,
+      "elevation_top": 1800,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.conthey.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "moosalp",
+      "name": "Moosalp",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2500,
+        "longitude": 7.8333
+      },
+      "elevation_base": 1800,
+      "elevation_top": 2400,
+      "access": {
+        "nearest_station": "Visp",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.moosalp.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 12
+    },
+    {
+      "id": "nax-mt-noble",
+      "name": "Nax - Mt-Noble",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2167,
+        "longitude": 7.4333
+      },
+      "elevation_base": 1300,
+      "elevation_top": 2567,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 35
+      },
+      "website": "https://www.nax.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 20
+    },
+    {
+      "id": "ovronnaz",
+      "name": "Ovronnaz",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.1950,
+        "longitude": 7.1667
+      },
+      "elevation_base": 1350,
+      "elevation_top": 2500,
+      "access": {
+        "nearest_station": "Riddes",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.ovronnaz.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Ovronnaz",
+      "skiable_terrain_km": 30
+    },
+    {
+      "id": "rosswald",
+      "name": "Rosswald",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3000,
+        "longitude": 8.0333
+      },
+      "elevation_base": 1800,
+      "elevation_top": 2700,
+      "access": {
+        "nearest_station": "Brig",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.rosswald.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 18
+    },
+    {
+      "id": "st-luc-chandolin",
+      "name": "St-Luc / Chandolin",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2333,
+        "longitude": 7.6000
+      },
+      "elevation_base": 1680,
+      "elevation_top": 2980,
+      "access": {
+        "nearest_station": "Sierre",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.valdanniviers.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "St-Luc",
+      "skiable_terrain_km": 65
+    },
+    {
+      "id": "unterbach",
+      "name": "Unterbäch",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2833,
+        "longitude": 7.8000
+      },
+      "elevation_base": 1230,
+      "elevation_top": 2500,
+      "access": {
+        "nearest_station": "Raron",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.unterbach.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 15
+    },
+    {
+      "id": "vercorin",
+      "name": "Vercorin",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2333,
+        "longitude": 7.5333
+      },
+      "elevation_base": 1330,
+      "elevation_top": 2716,
+      "access": {
+        "nearest_station": "Sierre",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.valdanniviers.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Vercorin",
+      "skiable_terrain_km": 35
+    },
+    {
+      "id": "visperterminen",
+      "name": "Visperterminen",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.2500,
+        "longitude": 7.9000
+      },
+      "elevation_base": 1340,
+      "elevation_top": 2400,
+      "access": {
+        "nearest_station": "Visp",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.visperterminen.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    },
+    {
+      "id": "evolene",
+      "name": "Espace Dent-Blanche (Evolène)",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.1167,
+        "longitude": 7.4833
+      },
+      "elevation_base": 1350,
+      "elevation_top": 2700,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.evolene-region.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Evolene",
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "arolla",
+      "name": "Espace Dent-Blanche (Arolla)",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.0167,
+        "longitude": 7.4833
+      },
+      "elevation_base": 2000,
+      "elevation_top": 3000,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 75
+      },
+      "website": "https://www.evolene-region.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    },
+    {
+      "id": "la-forclaz",
+      "name": "Espace Dent-Blanche (La Forclaz)",
+      "region": "Valais",
+      "canton": "VS",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.0833,
+        "longitude": 7.5000
+      },
+      "elevation_base": 1700,
+      "elevation_top": 2100,
+      "access": {
+        "nearest_station": "Sion",
+        "postbus_required": true,
+        "postbus_duration_minutes": 60
+      },
+      "website": "https://www.evolene-region.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 8
+    },
+    {
+      "id": "glacier-3000",
+      "name": "Glacier 3000",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3333,
+        "longitude": 7.2167
+      },
+      "elevation_base": 1350,
+      "elevation_top": 3000,
+      "access": {
+        "nearest_station": "Aigle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.glacier3000.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Glacier-3000",
+      "skiable_terrain_km": 28
+    },
+    {
+      "id": "les-diablerets",
+      "name": "Les Diablerets",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3500,
+        "longitude": 7.1667
+      },
+      "elevation_base": 1150,
+      "elevation_top": 2120,
+      "access": {
+        "nearest_station": "Les Diablerets",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.diablerets.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Les-Diablerets",
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "les-mosses",
+      "name": "Les Mosses - La Lécherette",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4000,
+        "longitude": 7.1000
+      },
+      "elevation_base": 1450,
+      "elevation_top": 1900,
+      "access": {
+        "nearest_station": "Aigle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.alpesvaudoises.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Les-Mosses",
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "les-pleiades",
+      "name": "Les Pléiades",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4667,
+        "longitude": 6.8667
+      },
+      "elevation_base": 1110,
+      "elevation_top": 1360,
+      "access": {
+        "nearest_station": "Vevey",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.mob.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "les-rochers-de-naye",
+      "name": "Les Rochers-de-Naye",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4333,
+        "longitude": 6.9833
+      },
+      "elevation_base": 1600,
+      "elevation_top": 2042,
+      "access": {
+        "nearest_station": "Montreux",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.goldenpass.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 5
+    },
+    {
+      "id": "leysin",
+      "name": "Leysin",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3500,
+        "longitude": 7.0167
+      },
+      "elevation_base": 1250,
+      "elevation_top": 2198,
+      "access": {
+        "nearest_station": "Aigle",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.leysin.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Leysin",
+      "skiable_terrain_km": 60
+    },
+    {
+      "id": "saint-cergue",
+      "name": "Saint-Cergue",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4500,
+        "longitude": 6.1500
+      },
+      "elevation_base": 1040,
+      "elevation_top": 1290,
+      "access": {
+        "nearest_station": "Nyon",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.saint-cergue.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "ste-croix-les-rasses",
+      "name": "Ste-Croix / Les Rasses",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8167,
+        "longitude": 6.5000
+      },
+      "elevation_base": 1050,
+      "elevation_top": 1500,
+      "access": {
+        "nearest_station": "Yverdon-les-Bains",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.sainte-croix-les-rasses.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 20
+    },
+    {
+      "id": "vallee-de-joux",
+      "name": "Vallée de Joux",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6333,
+        "longitude": 6.3000
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1500,
+      "access": {
+        "nearest_station": "Le Brassus",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.valleedejoux.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 15
+    },
+    {
+      "id": "villars-gryon",
+      "name": "Villars-Gryon",
+      "region": "Vaud",
+      "canton": "VD",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.3000,
+        "longitude": 7.0500
+      },
+      "elevation_base": 1224,
+      "elevation_top": 2120,
+      "access": {
+        "nearest_station": "Bex",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.villars-diablerets.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Villars",
+      "skiable_terrain_km": 125
+    },
+    {
+      "id": "charmey",
+      "name": "Charmey",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6167,
+        "longitude": 7.1667
+      },
+      "elevation_base": 900,
+      "elevation_top": 1630,
+      "access": {
+        "nearest_station": "Bulle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.charmey.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Charmey",
+      "skiable_terrain_km": 35
+    },
+    {
+      "id": "la-berra",
+      "name": "La Berra",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7000,
+        "longitude": 7.2167
+      },
+      "elevation_base": 1050,
+      "elevation_top": 1650,
+      "access": {
+        "nearest_station": "Fribourg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.laberra.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 25
+    },
+    {
+      "id": "les-paccots",
+      "name": "Les Paccots",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5333,
+        "longitude": 6.9167
+      },
+      "elevation_base": 1060,
+      "elevation_top": 1500,
+      "access": {
+        "nearest_station": "Châtel-St-Denis",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.les-paccots.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 12
+    },
+    {
+      "id": "moleson",
+      "name": "Moléson",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5500,
+        "longitude": 7.0167
+      },
+      "elevation_base": 1100,
+      "elevation_top": 2002,
+      "access": {
+        "nearest_station": "Bulle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.moleson.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Moleson",
+      "skiable_terrain_km": 30
+    },
+    {
+      "id": "rathvel",
+      "name": "Rathvel",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5000,
+        "longitude": 7.0000
+      },
+      "elevation_base": 1200,
+      "elevation_top": 1500,
+      "access": {
+        "nearest_station": "Châtel-St-Denis",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.rathvel.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "schwarzsee",
+      "name": "Schwarzsee",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6667,
+        "longitude": 7.2833
+      },
+      "elevation_base": 1050,
+      "elevation_top": 1750,
+      "access": {
+        "nearest_station": "Fribourg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.schwarzsee.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Schwarzsee",
+      "skiable_terrain_km": 25
+    },
+    {
+      "id": "jaun",
+      "name": "Jaun",
+      "region": "Fribourg",
+      "canton": "FR",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6167,
+        "longitude": 7.2833
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1800,
+      "access": {
+        "nearest_station": "Bulle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.jaun.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 20
+    },
+    {
+      "id": "bergbahnen-gstaad",
+      "name": "Bergbahnen Gstaad",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.4747,
+        "longitude": 7.2869
+      },
+      "elevation_base": 1050,
+      "elevation_top": 2000,
+      "access": {
+        "nearest_station": "Gstaad",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.gstaad.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Gstaad",
+      "skiable_terrain_km": 62
+    },
+    {
+      "id": "jaunpass",
+      "name": "Jaunpass",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5833,
+        "longitude": 7.3333
+      },
+      "elevation_base": 1500,
+      "elevation_top": 1750,
+      "access": {
+        "nearest_station": "Bulle",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.jaunpass.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 8
+    },
+    {
+      "id": "bugnenets-savagnieres",
+      "name": "Bugnenets-Savagnières",
+      "region": "Neuchâtel",
+      "canton": "NE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.0500,
+        "longitude": 6.9333
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1439,
+      "access": {
+        "nearest_station": "Saint-Imier",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.bugnenets-savagnieres.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 15
+    },
+    {
+      "id": "cret-du-puy",
+      "name": "Crêt-du-Puy",
+      "region": "Neuchâtel",
+      "canton": "NE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.0833,
+        "longitude": 6.7333
+      },
+      "elevation_base": 1200,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "La Chaux-de-Fonds",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.cretdupuy.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "robella-val-de-travers",
+      "name": "Robella Val-de-Travers",
+      "region": "Neuchâtel",
+      "canton": "NE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.9333,
+        "longitude": 6.6333
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1420,
+      "access": {
+        "nearest_station": "Noiraigue",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.robella.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "meiringen-hasliberg",
+      "name": "Meiringen-Hasliberg",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7167,
+        "longitude": 8.1833
+      },
+      "elevation_base": 1050,
+      "elevation_top": 2433,
+      "access": {
+        "nearest_station": "Meiringen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.meiringen-hasliberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Meiringen-Hasliberg",
+      "skiable_terrain_km": 60
+    },
+    {
+      "id": "axalp",
+      "name": "Axalp",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7167,
+        "longitude": 8.0500
+      },
+      "elevation_base": 1535,
+      "elevation_top": 2000,
+      "access": {
+        "nearest_station": "Brienz",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.axalp.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 8
+    },
+    {
+      "id": "beatenberg-hohwald",
+      "name": "Beatenberg-Hohwald",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6833,
+        "longitude": 7.8000
+      },
+      "elevation_base": 1150,
+      "elevation_top": 1450,
+      "access": {
+        "nearest_station": "Interlaken West",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.beatenberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "niederhorn",
+      "name": "Niederhorn",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7167,
+        "longitude": 7.7833
+      },
+      "elevation_base": 1150,
+      "elevation_top": 1950,
+      "access": {
+        "nearest_station": "Interlaken West",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.niederhorn.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 12
+    },
+    {
+      "id": "habkern",
+      "name": "Habkern",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7333,
+        "longitude": 7.8667
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "Interlaken West",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.habkern.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "eriz",
+      "name": "Eriz",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8000,
+        "longitude": 7.8500
+      },
+      "elevation_base": 1050,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "Thun",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.eriz.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "bumbach-schangnau",
+      "name": "Bumbach Schangnau",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8333,
+        "longitude": 7.8667
+      },
+      "elevation_base": 950,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "Thun",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.schangnau.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "aeschiallmend",
+      "name": "Aeschiallmend",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6500,
+        "longitude": 7.7000
+      },
+      "elevation_base": 1400,
+      "elevation_top": 1700,
+      "access": {
+        "nearest_station": "Spiez",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.aeschi-tourismus.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "kiental",
+      "name": "Kiental",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5833,
+        "longitude": 7.7333
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1450,
+      "access": {
+        "nearest_station": "Reichenbach im Kandertal",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.kiental.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "wiriehorn",
+      "name": "Wiriehorn",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6333,
+        "longitude": 7.4667
+      },
+      "elevation_base": 1200,
+      "elevation_top": 1850,
+      "access": {
+        "nearest_station": "Zweisimmen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.wiriehorn.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 15
+    },
+    {
+      "id": "grimmialp",
+      "name": "Grimmialp",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6667,
+        "longitude": 7.5500
+      },
+      "elevation_base": 1180,
+      "elevation_top": 1700,
+      "access": {
+        "nearest_station": "Erlenbach im Simmental",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.grimmialp.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 12
+    },
+    {
+      "id": "springenboden",
+      "name": "Springenboden",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7167,
+        "longitude": 7.5833
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "Erlenbach im Simmental",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.springenboden.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "heimenschwand",
+      "name": "Heimenschwand",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8167,
+        "longitude": 7.7167
+      },
+      "elevation_base": 1050,
+      "elevation_top": 1250,
+      "access": {
+        "nearest_station": "Thun",
+        "postbus_required": true,
+        "postbus_duration_minutes": 35
+      },
+      "website": "https://www.heimenschwand.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "rossberg",
+      "name": "Rossberg",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7500,
+        "longitude": 7.4500
+      },
+      "elevation_base": 1250,
+      "elevation_top": 1600,
+      "access": {
+        "nearest_station": "Zweisimmen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.rossberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 8
+    },
+    {
+      "id": "faltschen",
+      "name": "Faltschen",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.5667,
+        "longitude": 7.7000
+      },
+      "elevation_base": 1300,
+      "elevation_top": 1600,
+      "access": {
+        "nearest_station": "Frutigen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.faltschen.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "tramelan",
+      "name": "Tramelan",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.2333,
+        "longitude": 7.1000
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1200,
+      "access": {
+        "nearest_station": "Tramelan",
+        "postbus_required": false,
+        "postbus_duration_minutes": null
+      },
+      "website": "https://www.tramelan.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "pres-dorvin",
+      "name": "Prés-d'Orvin",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.1333,
+        "longitude": 7.2000
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1200,
+      "access": {
+        "nearest_station": "Biel/Bienne",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.presdorvin.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 6
+    },
+    {
+      "id": "linden",
+      "name": "Linden",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8500,
+        "longitude": 7.6833
+      },
+      "elevation_base": 900,
+      "elevation_top": 1100,
+      "access": {
+        "nearest_station": "Thun",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.linden-emmental.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "gantrisch-gurnigel",
+      "name": "Gantrisch Gurnigel",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7500,
+        "longitude": 7.4667
+      },
+      "elevation_base": 1200,
+      "elevation_top": 1550,
+      "access": {
+        "nearest_station": "Bern",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.gantrisch.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    },
+    {
+      "id": "gurnigelbad",
+      "name": "Gurnigelbad",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7667,
+        "longitude": 7.4500
+      },
+      "elevation_base": 1150,
+      "elevation_top": 1300,
+      "access": {
+        "nearest_station": "Bern",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.gurnigelbad.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "ottenleue",
+      "name": "Ottenleue",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7833,
+        "longitude": 7.4333
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1350,
+      "access": {
+        "nearest_station": "Bern",
+        "postbus_required": true,
+        "postbus_duration_minutes": 55
+      },
+      "website": "https://www.ottenleue.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "riffenmatt",
+      "name": "Riffenmatt",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8000,
+        "longitude": 7.3833
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1200,
+      "access": {
+        "nearest_station": "Schwarzenburg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.riffenmatt.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "ruschegg",
+      "name": "Rüschegg",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7833,
+        "longitude": 7.3667
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1250,
+      "access": {
+        "nearest_station": "Schwarzenburg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.ruschegg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 3
+    },
+    {
+      "id": "selital",
+      "name": "Selital",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8333,
+        "longitude": 7.4000
+      },
+      "elevation_base": 900,
+      "elevation_top": 1100,
+      "access": {
+        "nearest_station": "Schwarzenburg",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.selital.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "schwanden",
+      "name": "Schwanden",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6833,
+        "longitude": 7.4500
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1400,
+      "access": {
+        "nearest_station": "Zweisimmen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 20
+      },
+      "website": "https://www.schwanden-sigriswil.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "wilerallmi",
+      "name": "Wilerallmi",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.6333,
+        "longitude": 7.5167
+      },
+      "elevation_base": 1300,
+      "elevation_top": 1600,
+      "access": {
+        "nearest_station": "Diemtigen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.wilerallmi.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 5
+    },
+    {
+      "id": "homberg",
+      "name": "Homberg",
+      "region": "Bern",
+      "canton": "BE",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.9333,
+        "longitude": 7.6833
+      },
+      "elevation_base": 800,
+      "elevation_top": 1000,
+      "access": {
+        "nearest_station": "Thun",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.homberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 2
+    },
+    {
+      "id": "balmberg",
+      "name": "Balmberg",
+      "region": "Solothurn",
+      "canton": "SO",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.2500,
+        "longitude": 7.5167
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1300,
+      "access": {
+        "nearest_station": "Solothurn",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.balmberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 5
+    },
+    {
+      "id": "grenchenberg",
+      "name": "Grenchenberg",
+      "region": "Solothurn",
+      "canton": "SO",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 47.2167,
+        "longitude": 7.3833
+      },
+      "elevation_base": 1100,
+      "elevation_top": 1350,
+      "access": {
+        "nearest_station": "Grenchen Süd",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.grenchenberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 4
+    },
+    {
+      "id": "sorenberg",
+      "name": "Sörenberg",
+      "region": "Luzern",
+      "canton": "LU",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8167,
+        "longitude": 8.0333
+      },
+      "elevation_base": 1166,
+      "elevation_top": 2350,
+      "access": {
+        "nearest_station": "Schüpfheim",
+        "postbus_required": true,
+        "postbus_duration_minutes": 30
+      },
+      "website": "https://www.soerenberg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Sorenberg",
+      "skiable_terrain_km": 53
+    },
+    {
+      "id": "marbachegg",
+      "name": "Marbachegg",
+      "region": "Luzern",
+      "canton": "LU",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8667,
+        "longitude": 7.9333
+      },
+      "elevation_base": 900,
+      "elevation_top": 1500,
+      "access": {
+        "nearest_station": "Marbach",
+        "postbus_required": true,
+        "postbus_duration_minutes": 10
+      },
+      "website": "https://www.marbachegg.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 12
+    },
+    {
+      "id": "melchsee-frutt",
+      "name": "Melchsee-Frutt",
+      "region": "Obwalden",
+      "canton": "OW",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.7667,
+        "longitude": 8.2667
+      },
+      "elevation_base": 1080,
+      "elevation_top": 2255,
+      "access": {
+        "nearest_station": "Sarnen",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.melchsee-frutt.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Melchsee-Frutt",
+      "skiable_terrain_km": 36
+    },
+    {
+      "id": "morlialp-giswil",
+      "name": "Mörlialp Giswil",
+      "region": "Obwalden",
+      "canton": "OW",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 46.8333,
+        "longitude": 8.1833
+      },
+      "elevation_base": 1350,
+      "elevation_top": 1850,
+      "access": {
+        "nearest_station": "Giswil",
+        "postbus_required": true,
+        "postbus_duration_minutes": 15
+      },
+      "website": "https://www.moerlialp.ch",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    },
+    {
+      "id": "le-grand-bornand",
+      "name": "Le Grand-Bornand",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 45.9400,
+        "longitude": 6.4300
+      },
+      "elevation_base": 1000,
+      "elevation_top": 2100,
+      "access": {
+        "nearest_station": "Annecy",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.legrandbornand.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Le-Grand-Bornand",
+      "skiable_terrain_km": 90
+    },
+    {
+      "id": "hirmentaz",
+      "name": "Hirmentaz",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.3000,
+        "longitude": 6.6000
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1600,
+      "access": {
+        "nearest_station": "Thonon-les-Bains",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.hirmentaz.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Hirmentaz",
+      "skiable_terrain_km": 50
+    },
+    {
+      "id": "les-haberes",
+      "name": "Les Habères",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.2667,
+        "longitude": 6.4833
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1530,
+      "access": {
+        "nearest_station": "Thonon-les-Bains",
+        "postbus_required": true,
+        "postbus_duration_minutes": 35
+      },
+      "website": "https://www.leshaberes.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 25
+    },
+    {
+      "id": "jura-sur-leman",
+      "name": "Jura-sur-Léman",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.3500,
+        "longitude": 6.2667
+      },
+      "elevation_base": 900,
+      "elevation_top": 1680,
+      "access": {
+        "nearest_station": "Genève",
+        "postbus_required": true,
+        "postbus_duration_minutes": 60
+      },
+      "website": "https://www.jurasurleman.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "monts-jura",
+      "name": "Monts Jura",
+      "region": "Ain",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.3000,
+        "longitude": 5.9167
+      },
+      "elevation_base": 900,
+      "elevation_top": 1680,
+      "access": {
+        "nearest_station": "Genève",
+        "postbus_required": true,
+        "postbus_duration_minutes": 45
+      },
+      "website": "https://www.montsjura.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Monts-Jura",
+      "skiable_terrain_km": 60
+    },
+    {
+      "id": "thollon-les-memises",
+      "name": "Thollon Les Mémises",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.4167,
+        "longitude": 6.7000
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1800,
+      "access": {
+        "nearest_station": "Évian-les-Bains",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.thollonlesmemises.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Thollon-les-Memises",
+      "skiable_terrain_km": 30
+    },
+    {
+      "id": "massif-des-brasses",
+      "name": "Massif des Brasses",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.1833,
+        "longitude": 6.4333
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1502,
+      "access": {
+        "nearest_station": "Annemasse",
+        "postbus_required": true,
+        "postbus_duration_minutes": 40
+      },
+      "website": "https://www.lesbrasses.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 45
+    },
+    {
+      "id": "praz-de-lys-sommand",
+      "name": "Praz de Lys – Sommand",
+      "region": "Haute-Savoie",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.1500,
+        "longitude": 6.5833
+      },
+      "elevation_base": 1500,
+      "elevation_top": 2000,
+      "access": {
+        "nearest_station": "Taninges",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.prazdelys-sommand.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Praz-de-Lys-Sommand",
+      "skiable_terrain_km": 60
+    },
+    {
+      "id": "metabief",
+      "name": "Métabief",
+      "region": "Doubs",
+      "canton": null,
+      "country": "France",
+      "coordinates": {
+        "latitude": 46.7667,
+        "longitude": 6.3500
+      },
+      "elevation_base": 1000,
+      "elevation_top": 1463,
+      "access": {
+        "nearest_station": "Pontarlier",
+        "postbus_required": true,
+        "postbus_duration_minutes": 25
+      },
+      "website": "https://www.metabief.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "Metabief",
+      "skiable_terrain_km": 40
+    },
+    {
+      "id": "san-domenico",
+      "name": "San Domenico",
+      "region": "Piedmont",
+      "canton": null,
+      "country": "Italy",
+      "coordinates": {
+        "latitude": 46.2667,
+        "longitude": 8.1833
+      },
+      "elevation_base": 1420,
+      "elevation_top": 2500,
+      "access": {
+        "nearest_station": "Domodossola",
+        "postbus_required": true,
+        "postbus_duration_minutes": 35
+      },
+      "website": "https://www.san-domenico.com",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": "San-Domenico",
+      "skiable_terrain_km": 35
+    },
+    {
+      "id": "devero",
+      "name": "Devero",
+      "region": "Piedmont",
+      "canton": null,
+      "country": "Italy",
+      "coordinates": {
+        "latitude": 46.3167,
+        "longitude": 8.2500
+      },
+      "elevation_base": 1640,
+      "elevation_top": 2200,
+      "access": {
+        "nearest_station": "Domodossola",
+        "postbus_required": true,
+        "postbus_duration_minutes": 50
+      },
+      "website": "https://www.alpedidevero.it",
+      "magic_pass_valid": true,
+      "snow_forecast_slug": null,
+      "skiable_terrain_km": 10
+    }
+  ]
+}
