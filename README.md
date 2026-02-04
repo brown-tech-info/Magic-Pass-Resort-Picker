@@ -2,6 +2,8 @@
 
 A web application that recommends the best Magic Pass ski resorts for weekend snowboarding trips from Geneva, based on weather forecasts, snow conditions, and public transport accessibility.
 
+> **Note**: This project was built entirely with Claude Code. See [note from uri.md](note%20from%20uri.md) for more details and a quick-start guide.
+
 ## Features
 
 - **Weather Analysis**: Fetches forecasts from OpenWeather API for all 29 Magic Pass resorts
@@ -17,7 +19,7 @@ A web application that recommends the best Magic Pass ski resorts for weekend sn
 
 - Python 3.11+
 - Node.js 18+
-- Azure OpenAI credentials (from your time-app-test project)
+- Azure OpenAI credentials (from Azure Portal)
 - OpenWeather API key (free tier)
 
 ### 1. Backend Setup
@@ -46,7 +48,7 @@ code .env
 Edit `backend/.env` with your credentials:
 
 ```bash
-# Azure OpenAI (copy from your time-app-test project)
+# Azure OpenAI (from Azure Portal)
 AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/openai/v1/
 AZURE_OPENAI_API_KEY=your-api-key
 AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4.1-mini
@@ -68,6 +70,8 @@ npm install
 ```
 
 ## Running the Application
+
+**Quick Start with Claude Code**: If you have Claude Code installed, just ask it to "set up and run the backend and frontend" and it will handle everything for you!
 
 ### Start Backend
 
@@ -111,10 +115,10 @@ The frontend will be available at http://localhost:5173
 ## API Keys Needed
 
 ### Azure OpenAI
-Use credentials from your existing time-app-test project:
-- Copy `AZURE_OPENAI_ENDPOINT` from time-app-test .env
-- Copy `AZURE_OPENAI_API_KEY` from time-app-test .env
-- Use deployment name `gpt-4.1-mini`
+1. Create an Azure OpenAI resource in the Azure Portal
+2. Deploy a model (e.g., `gpt-4.1-mini`)
+3. Copy your endpoint and API key from the Keys and Endpoint section
+4. Add to `backend/.env`
 
 ### OpenWeather API
 1. Sign up at https://openweathermap.org/api (free)
@@ -131,11 +135,18 @@ magic-pass-picker/
 ├── backend/
 │   ├── main.py              # FastAPI application
 │   ├── config.py            # Configuration management
+│   ├── .env.example         # Environment template
 │   ├── models/              # Pydantic models
+│   │   ├── resort.py
+│   │   ├── weather.py
+│   │   ├── snow.py
+│   │   ├── transport.py
+│   │   └── recommendation.py
 │   ├── services/            # API integrations
 │   │   ├── weather_service.py
 │   │   ├── snow_service.py
 │   │   ├── transport_service.py
+│   │   ├── resort_service.py
 │   │   └── llm_service.py
 │   ├── core/                # Business logic
 │   │   ├── scoring.py
@@ -143,14 +154,26 @@ magic-pass-picker/
 │   ├── data/
 │   │   └── resorts.json     # Resort database
 │   └── utils/
-│       └── cache.py         # Caching utilities
+│       ├── cache.py         # Caching utilities
+│       └── progress.py      # Progress tracking
 ├── frontend/
 │   ├── src/
 │   │   ├── App.jsx          # Main component
+│   │   ├── main.jsx         # Entry point
 │   │   ├── components/      # UI components
-│   │   ├── services/        # API client
-│   │   └── index.css        # Styling
+│   │   │   ├── Header.jsx
+│   │   │   ├── RecommendationCard.jsx
+│   │   │   ├── WeatherDisplay.jsx
+│   │   │   ├── SnowDisplay.jsx
+│   │   │   ├── TransportDisplay.jsx
+│   │   │   ├── AISummary.jsx
+│   │   │   └── LoadingSpinner.jsx
+│   │   ├── hooks/
+│   │   │   └── useSSERecommendations.js
+│   │   └── services/
+│   │       └── api.js       # API client
 │   └── package.json
+├── note from uri.md         # About this project
 └── README.md
 ```
 
