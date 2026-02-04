@@ -6,7 +6,7 @@ A web application that recommends the best Magic Pass ski resorts for weekend sn
 
 ## Features
 
-- **Weather Analysis**: Fetches forecasts from OpenWeather API for all 29 Magic Pass resorts
+- **Weather Analysis**: Fetches forecasts from OpenWeather API for all 88 Magic Pass resorts
 - **Snow Conditions**: Scrapes snow data from snow-forecast.com
 - **Transport Times**: Calculates public transport routes from Geneva using Swiss OpenData API
 - **Smart Scoring**: Weighted algorithm (40% weather, 40% snow, 20% transport)
@@ -221,14 +221,16 @@ Resorts are scored on a 0-10 scale:
 
 ## Included Resorts
 
-The app includes 29 Magic Pass resorts across Switzerland:
+The app includes all 88 Magic Pass resorts across Switzerland, covering regions including:
 
-- **Valais**: Saas-Fee, Grachen, Belalp, Aletsch Arena, Bellwald, Nendaz, Crans-Montana
-- **Graubunden**: Davos Klosters, Arosa Lenzerheide, Savognin, Brigels, Disentis, LAAX
-- **Bernese Oberland**: Grindelwald-First, Adelboden-Lenk, Meiringen-Hasliberg
-- **Central Switzerland**: Melchsee-Frutt, Klewenalp, Sattel-Hochstuckli, Engelberg-Titlis, Andermatt-Sedrun, Sorenberg, Hoch-Ybrig
-- **Eastern Switzerland**: Flumserberg, Pizol, Wildhaus, Toggenburg
-- **Vaud/Jura**: Les Pleiades, Bugnenets-Savagnieres
+- **Valais**: Saas-Fee, Zermatt, Verbier, Nendaz, Crans-Montana, Aletsch Arena, and more
+- **Graubünden**: Davos Klosters, Arosa Lenzerheide, LAAX, Disentis, Savognin, and more
+- **Bernese Oberland**: Grindelwald, Adelboden-Lenk, Meiringen-Hasliberg, Gstaad, and more
+- **Central Switzerland**: Engelberg-Titlis, Andermatt-Sedrun, Melchsee-Frutt, and more
+- **Eastern Switzerland**: Flumserberg, Pizol, Toggenburg, and more
+- **Vaud/Fribourg/Jura**: Villars, Leysin, Les Diablerets, and more
+
+See `backend/data/resorts.json` for the complete list.
 
 ## Data Sources
 
